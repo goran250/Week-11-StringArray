@@ -61,8 +61,6 @@
 
             Console.WriteLine();
 
-            Console.WriteLine("Finished");
-
         }
     }
 }
